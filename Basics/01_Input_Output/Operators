@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b;
+    cin >> a >> b;
+
+    int sum = a + b;
+    int sub = a - b;
+    int multi = a * b;
+    int divi = a / b;
+
+    cout << sum << endl;
+    cout << sub << endl;
+    cout << multi << endl;
+    cout << divi << endl;
+
+    return 0;
+}
