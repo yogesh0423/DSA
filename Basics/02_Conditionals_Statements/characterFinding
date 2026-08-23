@@ -15,6 +15,8 @@ int main() {
 	else if (ch >='0' && ch <= '9') {
 		cout << "This is numeric"<< endl;
 	}
-
+	else {
+		cout << "This is special character"<< endl;
+	}
 	return 0;
 }
