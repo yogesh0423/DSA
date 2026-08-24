@@ -53,8 +53,8 @@ This repository documents my journey of learning **Data Structures and Algorithm
 
 | Topic | Status |
 |--------|---------|
-| C++ Basics | 🔄 In Progress |
-| Arrays | ⏳ Upcoming|
+| C++ Basics | ✅ Completed |
+| Arrays | 🔄 In Progress|
 | Strings | ⏳ Upcoming |
 | Recursion | ⏳ Upcoming|
 | Linked Lists | ⏳ Upcoming |
