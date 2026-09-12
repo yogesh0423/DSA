@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    char n;
+    cin >> n;
+    
+    if (n == 'a') {
+        cout << "Vowel";
+    }
+    else if (n == 'e') {
+        cout << "Vowel";
+    }
+    else if (n == 'i') {
+        cout << "Vowel";
+    }
+ 
