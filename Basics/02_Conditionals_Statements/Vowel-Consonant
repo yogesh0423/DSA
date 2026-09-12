@@ -14,4 +14,14 @@ int main() {
     else if (n == 'i') {
         cout << "Vowel";
     }
- 
+    else if(n == 'o') {
+        cout << "Vowel";
+    }
+    else if (n == 'u') {
+        cout << "Vowel";
+    }
+    else {
+        cout << "Consonant";
+    }
+    return 0;
+}
