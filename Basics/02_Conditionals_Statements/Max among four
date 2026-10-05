@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int a;
+    int b;
+    int c;
+    int d;
+    
+    cin >> a >> b >> c >> d;
+    
+    if (a > b && a > c && a > d) {
+        cout << "a is maximum" << a << endl;
+    }
+    else if ( b > a && b>c && b>d) {
+        cout << "b is maximum" << b << endl;
+    }
