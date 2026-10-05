@@ -16,3 +16,14 @@ int main() {
     else if ( b > a && b>c && b>d) {
         cout << "b is maximum" << b << endl;
     }
+    else if (c>a && c>b && c>d) {
+        cout << "c is maximum" << c << endl;
+    }
+    else if (d>a && d>b && d>c) {
+        cout << "d is maximum" << d << endl;
+    }
+    else {
+        cout << "All are equal" << endl;
+    }
+    
+}
