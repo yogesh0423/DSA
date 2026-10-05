@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int n;
+    int m;
+    cin >> n >> m ;
+    
+    int temp = n;
+    
+    n = m;
+    
+    m = temp;
+    
+    cout << n << endl;
+    cout << m << endl;
+}
