@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int n;
+    int m;
+    
+    cin >> n >> m;
+    
+    int quotient = n / m;
+    
+    int remainder = n - (m * quotient) ;
+    
+    cout << remainder << endl;
+}
