@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int n;
+    int m;
+    
+    cin >> n >> m;
+    
+    if (n % m == 0 ) {
+        cout << "n is multiple of m"<< endl;
+    }
+    else {
+        cout << "n is not a multiple of m" << endl;
+    }
+}
